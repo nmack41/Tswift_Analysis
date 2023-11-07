@@ -1,93 +1,31 @@
+## Sentiment and Emotion Analysis
+- What is the sentiment of Taylor Swift's albums and how does it evolve over time?
+- Which specific emotions are dominant in Taylor Swift's songs and how do these emotions flow throughout her albums or live setlists?
 
-Sentiment Analysis:
-- What is the overall sentiment of each album?
-- How has the sentiment of Taylor Swift’s songs changed over time?
+## Topic and Theme Analysis
+- What are the overarching themes in Taylor Swift's discography and how do they relate to her personal life events?
+- Can we identify and analyze the use of metaphors, cultural references, and the development of recurring motifs in her songs?
 
+## Linguistic Trends and Style Analysis
+- How have Taylor Swift’s linguistic trends and writing style evolved across her career?
+- What rhyme patterns and sensory imagery does she use, and how are choruses structured in her music?
 
-Topic Modeling:
-- What are the common themes across Taylor Swift's discography?
-- Are there recurring motifs in her lyrics that correlate with specific life events or periods?
+## Lyric Analysis and Similarity
+- What are the most common and unique words in Taylor Swift's lyrics, and how do her word choices compare to those of other artists?
+- Which Taylor Swift songs are most similar in lyrics, and do they indicate a signature writing style?
 
+## Classification and Prediction
+- Can Taylor Swift's songs be classified into specific genres based on their lyrics alone?
+- Is it possible to predict which album a Taylor Swift song belongs to based on its lyrical content?
 
-Classification:
-- Can we classify songs into different genres based on their lyrics?
-- Is it possible to predict the album of a song from its lyrics?
+## Named Entity and Subject Tracking
+- What are the prominent named entities, such as places and people, mentioned in Taylor Swift’s songs?
+- How frequently do certain characters or themes recur across Taylor Swift's albums?
 
+## Creative Language Modeling
+- Can we create a model to generate new song lyrics in the style of Taylor Swift?
+- How can NLP provide creative assistance in writing songs that align with Taylor Swift's thematic elements?
 
-Language Modeling:
-- Can we generate new lyrics that mimic Taylor Swift’s style?
-- What are the most predictive words for the next line in a song?
-
-
-Trend Analysis:
-- Are there linguistic trends that can be observed throughout Taylor Swift’s albums?
-- How has Taylor Swift’s vocabulary complexity evolved over her career?
-
-
-Named Entity Recognition (NER):
-- What are the key entities (such as places, people, and dates) mentioned in Taylor Swift’s songs?
-- How often do specific characters or subjects appear across her albums?
-
-
-Lyric Similarity:
-- Which songs have the most similar lyrics within an album or across different albums?
-- Can we find patterns of lyrical similarity that suggest a common writing style?
-
-
-Authorship Attribution:
-- Given a set of lyrics, can we develop a model to verify whether it is written by Taylor Swift or another artist?
-
-
-Word Frequency Analysis:
-- Which words are most unique to Taylor Swift’s lyrics compared to other artists?
-- What are the most frequently used words in her most popular songs?
-
-
-Emotion Detection:
-- What specific emotions are prevalent in Taylor Swift’s songs?
-- Can we track the emotional journey within an album?
-
-
-Stylometry:
-- How can we quantitatively characterize Taylor Swift’s writing style?
-- Are there stylistic elements that are consistent or that have changed drastically in her lyrics?
-
-
-Cultural Impact:
--Can we assess the cultural impact or references within Taylor Swift’s songs through NLP?
-
-
-Chorus Detection:
-- Can we automatically identify and extract choruses or repeated sections in her songs?
-
-
-Rhyme Analysis:
-- What are the rhyme schemes and patterns commonly used by Taylor Swift in her songs?
-
-
-Readability and Complexity:
-- How complex are Taylor Swift's lyrics? Can we analyze them for readability scores?
-
-
-Subtext and Metaphor Analysis:
-- What underlying messages or metaphors can be extracted from the lyrics using NLP?
-
-
-Emotion Progression in Concerts:
-- Can we analyze the setlists of Taylor Swift’s concerts to understand the emotional journey she takes her audience on?
-
-
-Automated Songwriting Assistant:
-- Could an NLP system assist in writing a song that fits within Taylor Swift's thematic and stylistic repertoire?
-
-
-Genre Blending:
-- Can NLP determine the blend of different musical genres within her lyrics over the years?
-
-
-Imagery and Sensory Language:
-- What sensory language does Taylor Swift use most frequently, and how does it contribute to the imagery in her lyrics?
-
-
-Motif Tracking:
-- How do certain motifs (like seasons, colors, or objects) appear and evolve throughout her songs?
+## Complexity and Readability
+- How complex are Taylor Swift's lyrics, and what does that say about their readability and accessibility?
+- How does Taylor Swift blend different musical genres in her lyrics, and can this be quantified through NLP analysis?
