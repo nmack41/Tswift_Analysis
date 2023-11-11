@@ -1,0 +1,13 @@
+name: nlp_tswift
+channels:
+  - defaults
+dependencies:
+  - pip
+  - spacy
+  - numpy
+  - keras
+  - matplotlib
+  - pandas
+  - nltk
+  - scikit-learn
+  - jupyter

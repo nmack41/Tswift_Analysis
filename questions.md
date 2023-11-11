@@ -1,3 +1,7 @@
+## Descriptive Analysis
+- How varied is the vocabulary used across different albums?
+- What words and/or phrases are repeated in each album and throughout all albums?
+
 ## Sentiment and Emotion Analysis
 - What is the sentiment of Taylor Swift's albums and how does it evolve over time?
 - Which specific emotions are dominant in Taylor Swift's songs and how do these emotions flow throughout her albums or live setlists?
