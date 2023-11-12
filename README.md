@@ -1,11 +1,11 @@
 
-Data has been organized by Jake Thompson and you can find his GitHub Repo regarding Taylor Swift here: https://github.com/wjakethompson/taylor
+Data has been organized by **Jake Thompson** and you can find his GitHub Repo regarding Taylor Swift here: https://github.com/wjakethompson/taylor
 You can find Jake Thompson's Code of Conduct, Liscense, and Readmes in the 'Terms' folder.
 
-Jake utilized R for analysis, however I wish to uitlize Python.
+Jake utilized R for analysis, however I wish to uitlize Python. You can find the analysis in tswift_analysis.ipynb which is a Jupyter file.
 
 
-
+# Questions 
 ## Descriptive Analysis
 - How varied is the vocabulary used across different albums?
 - What words and/or phrases are repeated in each album and throughout all albums?
