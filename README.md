@@ -1,3 +1,9 @@
+
+Data has been organized by Jake Thompson and you can find his GitHub Repo regarding Taylor Swift here: https://github.com/wjakethompson/taylor
+Jake utilized R for analysis, however I wish to uitlize Python. I
+
+
+
 ## Descriptive Analysis
 - How varied is the vocabulary used across different albums?
 - What words and/or phrases are repeated in each album and throughout all albums?

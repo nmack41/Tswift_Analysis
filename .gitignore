@@ -1,3 +1,8 @@
+# Hide these files
+rda_to_csv.R
+R_notes.txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
