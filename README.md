@@ -7,12 +7,12 @@ Jake utilized R for analysis, however I wish to uitlize Python. You can find the
 
 # Questions 
 ## Descriptive Analysis
-- How varied is the vocabulary used across different albums?
+- SKIPPED - How varied is the vocabulary used across different albums?
 - What words and/or phrases are repeated in each album and throughout all albums?
 
 ## Sentiment and Emotion Analysis
-- What is the sentiment of Taylor Swift's albums and how does it evolve over time?
-- Which specific emotions are dominant in Taylor Swift's songs and how do these emotions flow throughout her albums or live setlists?
+- SKIPPED - What is the sentiment of Taylor Swift's albums and how does it evolve over time?
+- Which specific emotions are dominant in Taylor Swift's albums?
 
 ## Topic and Theme Analysis
 - What are the overarching themes in Taylor Swift's discography and how do they relate to her personal life events?
