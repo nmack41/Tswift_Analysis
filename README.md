@@ -4,6 +4,11 @@ You can find Jake Thompson's Code of Conduct, Liscense, and Readmes in the 'Term
 
 Jake utilized R for analysis, however I wish to uitlize Python. You can find the analysis in tswift_analysis.ipynb which is a Jupyter file.
 
+# Next steps / Questions to answer
+- Can I analyze most common phrases?
+- Can I analyze emotions of phrases?
+- What can I gather from my word analysis
+
 
 # Questions 
 ## Descriptive Analysis
